@@ -1,0 +1,4 @@
+binance-connector
+python-dotenv
+SQLAlchemy
+pytest
